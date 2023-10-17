@@ -19,7 +19,7 @@ A simple food website showcasing recipes, built with HTML, CSS, and JavaScript f
 
 ## Demo
 
-You can see the live demo of the website [https://magical-taiyaki-fdba75.netlify.app/].
+You can see the live demo of the website [https://tastetablehub-32.netlify.app/].
 
 ## Technologies Used
 
